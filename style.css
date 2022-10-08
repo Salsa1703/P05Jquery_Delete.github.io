@@ -1,0 +1,26 @@
+<style>
+* {
+  text-align: center;
+  color: blue;
+}
+        table {
+            border-collapse: collapse;
+            width: 25%;
+            height: 30%;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        td {
+            background-color: ;
+            border: 2px solid firebrick;
+            border-radius: 0px;
+            font-weight: bold;
+            color: black;
+            cursor: pointer;
+        }
+        td:hover {
+            background-color: #F08080;
+        }
+        
+</style>
